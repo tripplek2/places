@@ -3,6 +3,7 @@
 # Descrption
 Below is a descrption of a form that ebables a user to input data to places they've been to and what it entails.
 
+# Content
 Create a Place object
   - Store location
   - Store landmark
