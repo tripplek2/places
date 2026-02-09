@@ -4,31 +4,33 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div id="Box">
-        <span><h1>Places that i've been to.</h1></span>
+        <span><h1>Places that i've been to🌍.</h1></span>
         <form id="form-group">
-            <label for="location">location</label>
+            <label for="location">location📍</label>
             <input type="text" id="location" placeholder="Enter the location" required>
             
-            <label for="landmark">landmark</label>
+            <label for="landmark">landmark😎</label>
             <input type="text" id="landmark" placeholder="Enter the landmark" required>
             
-            <label for="time of the year">Time of the year</label>
-            <input type="text" id="time of the year" placeholder="Enter the time of the year">
+            <label for="time of the year">Time of the year⏱️</label>
+            <input type="text" id="timeOfTheYear" placeholder="Enter the time of the year">
 
             <textarea id="notes" placeholder="Enter your notes"></textarea>
             
-            <button type="submit">Visited places</button>
-
+            
+            <button type="button" class= "btn-add" onclick="handleAddVisitedPlaces()">Add Visited Place</button>
+        </form>
             
     <ol id="list-of-places"></ol>
 
     <div id="places-details"></div>
-         </form>
-
     </div>
+
+    <script src="script.js"></script>
     
 </body>
 </html>
