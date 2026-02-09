@@ -1,7 +1,6 @@
 function FavouritePlaces() {
-    this.visitedplaces= {};
-    this.currentId= 0;
-
+    this.visitedplaces = {};
+    this.currentId = 0;
 }
 
 FavouritePlaces.prototype.assignId = function() {
