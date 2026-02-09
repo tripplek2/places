@@ -9,7 +9,7 @@ body {
     background-color:rgba(122, 95, 229, 0.477);
     color: #1e1c1c;
     width: 400px;
-    box-shadow: 10px rgb(156, 73, 73);
+    box-shadow: rgb(218, 174, 135);
     border-radius: 10px;
     border: 3px solid rgb(218, 174, 135);
 }
@@ -28,6 +28,7 @@ button {
     border: none;
     border-radius: 10px;
     font-size: 20px;
+    cursor: pointer;
 }
 
 button:hover {
