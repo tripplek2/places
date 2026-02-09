@@ -29,7 +29,8 @@ button {
     border-radius: 10px;
     font-size: 20px;
 }
-button:hover {
-    background-color: rgb(124, 244, 192);
-}
 
+button:hover {
+    background-color: rgb(218, 174, 135);
+
+}
