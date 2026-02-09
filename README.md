@@ -37,3 +37,21 @@ When a user clicks on a place name
   - Notes
   - Image 
 
+# Installation and Usage
+
+1. clone the repository:
+
+  git clone  https://github.com/tripplek2/places.git
+
+2. Navigate to the project directory:
+
+  cd places and then open the project
+
+# Author
+
+Kelvin Korir
+
+Email[kibetkelvin222@gmail.com]
+
+
+
