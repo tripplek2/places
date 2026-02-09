@@ -4,10 +4,9 @@ function FavouritePlaces() {
 
 }
 
-FavouritePlaces.prototype.assignId= function() {
+FavouritePlaces.prototype.assignId = function() {
     this.currentId++;
     return this.currentId;
-
 }
 
 FavouritePlaces.prototype.addVisitedPlaces= function(visitedplace) {
