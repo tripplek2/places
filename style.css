@@ -1,9 +1,8 @@
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: italic;
-    background-color: rgba(32, 60, 18, 0.386);
+    background-color: rgb(235, 142, 142);
 }
-
 #Box {
     margin: 40px auto;
     padding: 20px;
