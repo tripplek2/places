@@ -1,5 +1,8 @@
 # Places that i've been to.
 
+# Descrption
+Below is a descrption of a form that ebables a user to input data to places they've been to and what it entails.
+
 Create a Place object
   - Store location
   - Store landmark
@@ -27,14 +30,9 @@ When a user fills the form and clicks "Add Place"
 When a user clicks on a place name
   - Find the place using its ID
   - Display all details for that place
-    - Location
-    - Landmark
-    - Time of year
-    - Notes
-    - Image (if available)
+  - Location
+  - Landmark
+  - Time of year
+  - Notes
+  - Image 
 
-When a user clicks delete
-  - Remove the place from FavouritePlaces
-  - Update the displayed list
-
-END program
