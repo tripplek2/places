@@ -1,0 +1,38 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    background-color: rgba(32, 60, 18, 0.386);
+}
+
+#Box {
+    margin: 40px auto;
+    padding: 20px;
+    background-color:rgba(122, 95, 229, 0.477);
+    color: #1e1c1c;
+    width: 400px;
+    box-shadow: 10px rgb(156, 73, 73);
+    border-radius: 10px;
+    border: 3px solid rgb(218, 174, 135);
+}
+
+form input,
+form textarea {
+    padding: 10px;
+    width: 95%;
+    margin-bottom: 10px;
+
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: rgb(red, green, blue);
+    border:none;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+button:hover {
+    background-color: rgb(124, 244, 192);
+}
+
