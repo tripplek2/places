@@ -9,7 +9,7 @@ Create a Place object
   - Store landmark
   - Store time of the year
   - Store notes
-  - Store image (optional)
+  - Store image 
 
 Create a FavouritePlaces object
   - Store all places in a list
